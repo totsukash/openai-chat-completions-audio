@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev:output_audio": "node --env-file=.env src/output_audio.js"
+    "dev:output_audio": "node --env-file=.env src/output_audio.js",
+    "dev:input_audio": "node --env-file=.env src/input_audio.js"
   },
   "type": "module",
   "keywords": [],
