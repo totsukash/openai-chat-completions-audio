@@ -9,7 +9,7 @@ $ cp .env.sample .env
 $ npm install
 ````
 
-OpenIのAPIキーを`.env`に設定してください。
+OpenAIのAPIキーを`.env`に設定してください。
 
 - https://platform.openai.com/api-keys
 
