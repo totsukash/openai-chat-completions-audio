@@ -28,7 +28,7 @@ $ npm run dev:output_audio
 音声ファイルを入力して、テキストで応答を生成します。
 
 ```bash
-$ npm run dev:input_text
+$ npm run dev:input_audio
 ```
 
 ## URL
